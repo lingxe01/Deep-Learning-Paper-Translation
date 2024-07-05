@@ -1,0 +1,1 @@
+[【3D点云】PointCNN：论文翻译及Pytorch代码实现](https://blog.csdn.net/Kandy0125/article/details/118941070)
