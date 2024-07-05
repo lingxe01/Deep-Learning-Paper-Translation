@@ -6,4 +6,4 @@
 
 [Deformable DETR](Deformable-DETR.md)
 
-![alt text](img\Snipaste_2024-07-05_16-55-40.png)
+![alt text](img/Snipaste_2024-07-05_16-55-40.png)
