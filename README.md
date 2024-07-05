@@ -2,7 +2,7 @@
 [DETR](DETR.md) 
 
 
-![alt text](img\Snipaste_2024-07-05_17-07-00.png)
+![alt text](img\\Snipaste_2024-07-05_17-07-00.png)
 
 [Deformable DETR](Deformable-DETR.md)
 
